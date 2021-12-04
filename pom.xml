@@ -13,6 +13,6 @@
         <maven.compiler.target>8</maven.compiler.target>
     </properties>
     <build>
-        <finalName>IntegrationWithMaven</finalName>>
+        <finalName>IntegrationWithMaven</finalName>
     </build>
     </project>
